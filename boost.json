@@ -1,0 +1,11 @@
+{
+    "agents": [
+        "gemini",
+        "claude_code"
+    ],
+    "guidelines": true,
+    "skills": [
+        "pest-testing",
+        "tailwindcss-development"
+    ]
+}
